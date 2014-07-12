@@ -1,3 +1,3 @@
 reddit-notification-shell-script
 ================================
-See https://github.com/rookie616/reddit-notification-shell-script/wiki
+See http://blog.digitalinterruption.com/articles/reddit-notification-router-mod/
